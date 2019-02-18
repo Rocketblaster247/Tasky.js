@@ -15,8 +15,8 @@ const Tasky = function () {
   this.execFunc = function () {
 		
   };
-	this.execTasks = function () {
-	  var func = this.execFunc();
-		
-	};
+  this.execTasks = function () {
+    var func = this.execFunc();
+    
+  };
 };
