@@ -12,11 +12,11 @@ const Tasky = function () {
   this.addTask = function (func) {
     this.tasks.push(func);
   };
-	this.execFunc = function () {
+  this.execFunc = function () {
 		
-	};
+  };
 	this.execTasks = function () {
-		var func = this.execFunc();
+	  var func = this.execFunc();
 		
 	};
 };
